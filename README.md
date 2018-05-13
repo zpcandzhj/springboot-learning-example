@@ -1,19 +1,6 @@
 # springboot-learning-example
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
-# 推荐 
-由于工作原因，我发表原创博客也需要编写的时间。期间很多人私我问题，没有及时得到回复，这里说声抱歉。因此，建一个星球
-
-「泥瓦匠BYSocket」和朋友们讨论技术相关的话题，你一起来吧？
-
-[泥瓦匠BYSocket 星球](https://t.zsxq.com/nMzjqbe "泥瓦匠BYSocket")
-
-[泥瓦匠BYSocket 星球](https://t.zsxq.com/nMzjqbe "泥瓦匠BYSocket")
-
-[泥瓦匠BYSocket 星球](https://t.zsxq.com/nMzjqbe "泥瓦匠BYSocket")
-
-这个星球里面讲深入讨论 Java 、Java EE、Spring Boot 等框架技术及工作经验交流，分享一路技术走来的经验、教训。硬实力软实力、择业、职业规划等。
-
 ## 计划
 Spring Boot 2.0 最大的热点肯定是 Web Flux。我这边也就开始操刀了...
 
